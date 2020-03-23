@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlissonDev.MinhaApi.Api", "AlissonDev.MinhaApi.Api\AlissonDev.MinhaApi.Api.csproj", "{231CE945-1002-48D2-9309-E395852F8133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlissonDev.MinhaApi.Dominio", "AlissonDev.MinhaApi.Dominio\AlissonDev.MinhaApi.Dominio.csproj", "{CA51042F-E1E6-4879-B37A-1314E9EBE158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231CE945-1002-48D2-9309-E395852F8133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231CE945-1002-48D2-9309-E395852F8133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231CE945-1002-48D2-9309-E395852F8133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231CE945-1002-48D2-9309-E395852F8133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA51042F-E1E6-4879-B37A-1314E9EBE158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA51042F-E1E6-4879-B37A-1314E9EBE158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA51042F-E1E6-4879-B37A-1314E9EBE158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA51042F-E1E6-4879-B37A-1314E9EBE158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36929A9B-4347-4B4A-A7E1-0A8EE2C2FAA2}
+	EndGlobalSection
+EndGlobal
